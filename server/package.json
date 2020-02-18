@@ -10,13 +10,13 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "socket.io": "^2.3.0"
-  },
-  "devDependencies": {
+    "socket.io": "^2.3.0",
     "@babel/cli": "^7.7.4",
     "@babel/core": "^7.7.4",
     "@babel/node": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
+  },
+  "devDependencies": {
     "jest": "^24.9.0",
     "nodemon": "^2.0.1"
   },
